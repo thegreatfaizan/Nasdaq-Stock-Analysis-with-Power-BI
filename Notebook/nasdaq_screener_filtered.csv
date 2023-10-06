@@ -1,0 +1,37 @@
+Symbol,Last Sale,Market Cap,Country,Sector,Industry
+BHP,$58.50,2.96268E+11,Australia,Basic Materials,Metal Mining
+RIO,$63.40,1.03156E+11,Australia,Basic Materials,Metal Mining
+VALE,$13.88,66330982970,Brazil,Basic Materials,Metal Mining
+AMZN,$137.27,1.41632E+12,United States,Consumer Discretionary,Catalog/Specialty Distribution
+TSLA,$256.49,8.14098E+11,United States,Consumer Discretionary,Auto Manufacturing
+V,$245.34,4.56784E+11,United States,Consumer Discretionary,Business Services
+KO,$58.82,2.54358E+11,United States,Consumer Staples,Beverages (Production/Distribution)
+PEP,$174.16,2.39745E+11,United States,Consumer Staples,Beverages (Production/Distribution)
+SONY,$84.54,1.06612E+11,Japan,Consumer Staples,Consumer Electronics/Appliances
+XOM,$113.53,4.54482E+11,United States,Energy,Oil & Gas Production
+SHEL,$62.85,4.20505E+11,Netherlands,Energy,Oil & Gas Production
+CVX,$166.46,3.10822E+11,United States,Energy,Integrated oil Companies
+HSBC,$37.22,7.32973E+11,United Kingdom,Finance,Savings Institutions
+JPM,$145.20,4.21964E+11,United States,Finance,Major Banks
+BAC,$28.65,2.27664E+11,United States,Finance,Major Banks
+LLY,$558.19,5.29887E+11,United States,Health Care,Biotechnology: Pharmaceutical Preparations
+UNH,$480.81,4.45377E+11,United States,Health Care,Medical Specialities
+NVO,$190.11,4.27671E+11,Denmark,Health Care,Biotechnology: Pharmaceutical Preparations
+TMO,$542.01,2.09189E+11,United States,Industrials,Industrial Machinery/Components
+DHR,$260.85,1.92599E+11,United States,Industrials,Industrial Machinery/Components
+LIN,$381.60,1.862E+11,United Kingdom,Industrials,Major Chemicals
+FERG,$157.45,32221323760,United Kingdom,Miscellaneous,Miscellaneous
+DLB,$84.48,8079772293,United States,Miscellaneous,Multi-Sector Companies
+CAE,$24.35,7745898218,Canada,Miscellaneous,Industrial Machinery/Components
+PLD,$122.05,1.12757E+11,United States,Real Estate,Real Estate Investment Trusts
+AMT,$180.42,84103779099,United States,Real Estate,Real Estate Investment Trusts
+EQIX,$768.56,71910260295,United States,Real Estate,Real Estate Investment Trusts
+AAPL,$189.70,2.96581E+12,United States,Technology,Computer Manufacturing
+MSFT,$333.55,2.4782E+12,United States,Technology,Computer Software: Prepackaged Software
+GOOG,$136.71,1.72378E+12,United States,Technology,Computer Software: Programming Data Processing
+CSCO,$57.26,2.33338E+11,United States,Telecommunications,Computer Communications Equipment
+CMCSA,$44.56,1.83816E+11,United States,Telecommunications,Cable & Other Pay Television Services
+TBC,$23.69,1.6936E+11,United States,Telecommunications,Telecommunications Equipment
+NGG,$61.74,2.27699E+11,United Kingdom,Utilities,Natural Gas Distribution
+SO,$66.30,72303238188,United States,Utilities,Power Generation
+DUK,$86.65,66781808774,United States,Utilities,Power Generation
