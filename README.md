@@ -2,6 +2,10 @@
 
 Welcome to the Nasdaq Stock Analysis with Power BI repository. This repository contains all the essential files and folders related to our comprehensive financial and stock data analysis. Below, you'll find an overview of the repository's contents and a brief description of each item.
 
+![Overall Stock Analysis Dashboard](https://github.com/thegreatfaizan/Nasdaq-Stock-Analysis-with-Power-BI/blob/main/Notebook/Overall%20Stock%20Analysis%20Dashboard%20Screenshot.png)
+
+![Company Financial Analysis Dashboard](https://github.com/thegreatfaizan/Nasdaq-Stock-Analysis-with-Power-BI/blob/main/Notebook/Company%20Financial%20Analysis%20Dashboard%20Screenshot.png)
+
 ## Folder Structure
 
 
